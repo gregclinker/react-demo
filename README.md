@@ -13,7 +13,7 @@ mvn clean installl
 java -jar target/react-demo-1.0.jar
 ```
 
-**To get consume the event stream** http://localhost:8080/ws.html
+**To consume the event stream** http://localhost:8080/ws.html
 
 **To delete all events**
 ```shell script
