@@ -11,8 +11,8 @@
     </parent>
 
     <groupId>com.essexboy</groupId>
-    <artifactId>react-demo1</artifactId>
-    <version>0.1</version>
+    <artifactId>react-demo</artifactId>
+    <version>1.0</version>
 
     <name>react-demo1</name>
     <description>Demo project for React</description>
