@@ -1,0 +1,19 @@
+#oidc:
+#  issuer-uri: https://dev-306280.okta.com/oauth2/default
+#  client-id: 0oawgh33h848c6rxt4x6
+#  client-secret: SXnKDfOe0AoZxVmluEsOhO5FBpM8-4AA8MB0Toha
+
+#spring:
+#  security:
+#    oauth2:
+#      client:
+#        provider:
+#          okta:
+#            issuer-uri: https://dev-306280.okta.com/oauth2/default
+#        registration:
+#          okta:
+#            client-id: 0oawgh33h848c6rxt4x6
+#            client-secret: SXnKDfOe0AoZxVmluEsOhO5FBpM8-4AA8MB0Toha
+#      resourceserver:
+#        jwt:
+#          issuer-uri: https://dev-306280.okta.com/oauth2/default
